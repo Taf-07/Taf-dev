@@ -1,0 +1,22 @@
+body {
+    background: #1e1e2e;
+    color: #ffffff;
+    font-family: monospace;
+    margin: 0;
+}
+h1 {
+    margin: 0;
+}
+nav {
+    border-bottom: #4544c2 2px solid;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+main {
+    margin: 10px;
+}
+#ani {
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
